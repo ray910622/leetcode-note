@@ -1,1 +1,1 @@
-記錄自己打leetcode的程式碼，還有一些過程的想法
+Jotting down my solutions and thoughts in my Leetcode journey.
